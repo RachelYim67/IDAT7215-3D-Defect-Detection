@@ -1,0 +1,19 @@
+# Downloaded assets and local environments (recreate with prepare_assets.py)
+.venv/
+venv/
+.keras/
+.cache/
+data/
+downloads/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+*.part
+*.tmp
+**/features.npy
+**/features.tmp.npy
+**/test_features_*.npy
+
+# Saved per-run small .h5 classifier weights and CSV results are intentionally tracked.

@@ -1,0 +1,23 @@
+{
+  "model": "EfficientNetV2M",
+  "study": "two",
+  "optimizer": "SGD",
+  "learning_rate": 0.0010000000474974513,
+  "epochs": 50,
+  "batch_size": 50,
+  "seed": 42,
+  "class_order": [
+    "Badaug",
+    "Goodaug"
+  ],
+  "initial_weights_sha256": "a74a20060908e0b63c433f955d62d0743b39b2fe7c5aa3cdefc46d2fad23c243",
+  "cache_prediction_max_abs_error": 1.7881393432617188e-07,
+  "validation": {
+    "n": 308,
+    "correct": 205
+  },
+  "test": {
+    "n": 598,
+    "correct": 400
+  }
+}

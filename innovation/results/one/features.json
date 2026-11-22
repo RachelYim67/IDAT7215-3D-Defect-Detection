@@ -1,0 +1,19 @@
+{
+  "version": "msaf-1",
+  "identity": "9fd17e62b3647ec7fb9cef04d98e0868104b4e6c7a5daf18343f3c90d1e6016d",
+  "backbone_parameters": 53150388,
+  "feature_layers": [
+    "block3e_add",
+    "block5n_add",
+    "top_activation"
+  ],
+  "feature_channels": [
+    80,
+    176,
+    1280
+  ],
+  "input_range": [
+    0,
+    255
+  ]
+}

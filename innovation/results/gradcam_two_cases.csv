@@ -1,0 +1,5 @@
+path,outcome,true_class,b_probability,f_probability
+Badaug/aug_0_7651.png,New missed defect,0,0.9999268054962158,0.015680979937314987
+Badaug/aug_0_9946.png,Both missed defect,0,0.31942132115364075,0.0074155195616185665
+Badaug/aug_50_4301.png,Both detected defect,0,1.0,0.999971330165863
+Goodaug/aug_25_8261.png,Both normal,1,1.2767452812238768e-34,5.01080057802028e-06

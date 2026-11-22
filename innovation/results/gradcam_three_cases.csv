@@ -1,0 +1,5 @@
+path,outcome,true_class,b_probability,f_probability
+defected/no_support_244.jpg,Recovered defect,0,0.04131666198372841,0.9996623396873474
+defected/no_bottom_30.jpg,Both detected defect,0,0.9999892711639404,1.0
+no_defected/scratch_81.jpg,False alarm,1,0.9999960660934448,0.4839355945587158
+no_defected/scratch_9.jpg,Both normal,1,2.0407739498295996e-08,2.0664767674816176e-08

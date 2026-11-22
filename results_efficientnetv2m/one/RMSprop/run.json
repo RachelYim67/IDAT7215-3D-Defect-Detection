@@ -1,0 +1,23 @@
+{
+  "model": "EfficientNetV2M",
+  "study": "one",
+  "optimizer": "RMSprop",
+  "learning_rate": 0.0010000000474974513,
+  "epochs": 30,
+  "batch_size": 8,
+  "seed": 42,
+  "class_order": [
+    "badcylinder",
+    "goodcylinder"
+  ],
+  "initial_weights_sha256": "a74a20060908e0b63c433f955d62d0743b39b2fe7c5aa3cdefc46d2fad23c243",
+  "cache_prediction_max_abs_error": 1.1920928955078125e-07,
+  "validation": {
+    "n": 27,
+    "correct": 11
+  },
+  "test": {
+    "n": 55,
+    "correct": 27
+  }
+}

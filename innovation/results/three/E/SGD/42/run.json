@@ -1,0 +1,31 @@
+{
+  "config": {
+    "version": "msaf-1",
+    "identity": "ed205b3a0e234bb5493e642d6d445d3f1a4227244394a96a0fa2c54ac85e5cd4",
+    "study": "three",
+    "variant": "E",
+    "optimizer": "SGD",
+    "seed": 42,
+    "batch_size": 30,
+    "epochs": 30,
+    "learning_rate": 0.001
+  },
+  "validation": {
+    "n": 159,
+    "correct": 147,
+    "tp": 73,
+    "fn": 5,
+    "fp": 7,
+    "tn": 74,
+    "accuracy": 0.9245283018867925,
+    "precision": 0.9125,
+    "recall": 0.9358974358974359,
+    "f1": 0.9240506329113924,
+    "specificity": 0.9135802469135802,
+    "roc_auc": 0.9814814814814814,
+    "average_precision": 0.9811054660718952
+  },
+  "head_parameters": 98498,
+  "seconds": 0.7612362918443978,
+  "updates": 1110
+}

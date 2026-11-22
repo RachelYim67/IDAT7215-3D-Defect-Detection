@@ -1,0 +1,10 @@
+study,optimizer,validation_accuracy_pct,test_correct,test_total,test_accuracy_pct,paper_test_accuracy_pct,difference_pp
+one,Adam,40.7407,27,55,49.0909,49,0.0909
+one,SGD,40.7407,27,55,49.0909,49,0.0909
+one,RMSprop,40.7407,27,55,49.0909,49,0.0909
+two,Adam,66.5584,400,598,66.8896,67,-0.1104
+two,SGD,66.5584,400,598,66.8896,67,-0.1104
+two,RMSprop,66.5584,400,598,66.8896,67,-0.1104
+three,Adam,50.9434,156,309,50.4854,50,0.4854
+three,SGD,50.9434,156,309,50.4854,50,0.4854
+three,RMSprop,50.9434,156,309,50.4854,50,0.4854

@@ -1,0 +1,20 @@
+{
+  "rule": "highest mean validation defect F1 across 3 seeds; recall then fixed optimizer order on ties",
+  "optimizers": {
+    "one:B": "Adam",
+    "one:C": "Adam",
+    "one:D": "Adam",
+    "one:E": "Adam",
+    "one:F": "Adam",
+    "two:B": "Adam",
+    "two:C": "SGD",
+    "two:D": "SGD",
+    "two:E": "SGD",
+    "two:F": "SGD",
+    "three:B": "Adam",
+    "three:C": "Adam",
+    "three:D": "Adam",
+    "three:E": "Adam",
+    "three:F": "Adam"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "selected": "geometry",
+  "best_augmented": "geometry",
+  "validation_ranking": [
+    {
+      "policy": "geometry",
+      "validation_accuracy_pct": 97.23497831464289,
+      "validation_recall_pct": 96.73315492490251
+    },
+    {
+      "policy": "none",
+      "validation_accuracy_pct": 97.20117214876126,
+      "validation_recall_pct": 96.73315492490251
+    },
+    {
+      "policy": "geometry_light",
+      "validation_accuracy_pct": 97.20117214876124,
+      "validation_recall_pct": 96.73315492490251
+    }
+  ]
+}

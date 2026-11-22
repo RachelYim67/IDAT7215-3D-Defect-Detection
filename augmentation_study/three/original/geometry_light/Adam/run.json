@@ -1,0 +1,9 @@
+{
+  "initial_sha256": "a74a20060908e0b63c433f955d62d0743b39b2fe7c5aa3cdefc46d2fad23c243",
+  "optimizer": "Adam",
+  "epochs": 30,
+  "batch_size": 30,
+  "updates": 1110,
+  "learning_rate": 0.0010000000474974513,
+  "seed": 42
+}

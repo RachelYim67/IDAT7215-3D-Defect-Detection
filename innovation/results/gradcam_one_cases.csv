@@ -1,0 +1,3 @@
+path,outcome,true_class,b_probability,f_probability
+badcylinder/IMG_9191.JPG,Both detected defect,0,1.0,1.0
+goodcylinder/IMG_8962.JPG,Both normal,1,4.459145657165209e-06,2.0220986129970697e-07

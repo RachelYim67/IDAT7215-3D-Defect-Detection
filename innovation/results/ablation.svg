@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="690" viewBox="0 0 1160 690">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#263343}.axis{font-size:12px}.title{font-size:23px;font-weight:bold}.sub{font-size:13px;fill:#566575}</style>
+<text x="32" y="37" class="title">EfficientNetV2M: architecture ablation (Adam)</text>
+<text x="32" y="61" class="sub">Original: one reproduction run; B–F: means of three seeds, error bars = sample SD</text>
+<text x="65" y="96" font-size="15" font-weight="bold">Study One · Accuracy</text>
+<line x1="65" y1="292.0" x2="375" y2="292.0" stroke="#dbe3ea"/>
+<text x="56" y="296.0" text-anchor="end" class="axis">0</text>
+<line x1="65" y1="247.0" x2="375" y2="247.0" stroke="#dbe3ea"/>
+<text x="56" y="251.0" text-anchor="end" class="axis">25</text>
+<line x1="65" y1="202.0" x2="375" y2="202.0" stroke="#dbe3ea"/>
+<text x="56" y="206.0" text-anchor="end" class="axis">50</text>
+<line x1="65" y1="157.0" x2="375" y2="157.0" stroke="#dbe3ea"/>
+<text x="56" y="161.0" text-anchor="end" class="axis">75</text>
+<line x1="65" y1="112.0" x2="375" y2="112.0" stroke="#dbe3ea"/>
+<text x="56" y="116.0" text-anchor="end" class="axis">100</text>
+<rect x="75" y="203.63636363636363" width="36" height="88.36363636363637" fill="#a5acb5"/>
+<text x="93" y="198.63636363636363" class="axis" text-anchor="middle">49.1</text>
+<text x="93" y="312" class="axis" text-anchor="middle">A</text>
+<rect x="126" y="112.0" width="36" height="180.0" fill="#64748b"/>
+<text x="144" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="144" y="312" class="axis" text-anchor="middle">B</text>
+<rect x="177" y="112.0" width="36" height="180.0" fill="#779ac3"/>
+<text x="195" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="195" y="312" class="axis" text-anchor="middle">C</text>
+<rect x="228" y="112.0" width="36" height="180.0" fill="#497db4"/>
+<text x="246" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="246" y="312" class="axis" text-anchor="middle">D</text>
+<rect x="279" y="112.0" width="36" height="180.0" fill="#28a3a2"/>
+<text x="297" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="297" y="312" class="axis" text-anchor="middle">E</text>
+<rect x="330" y="112.0" width="36" height="180.0" fill="#126c56"/>
+<text x="348" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="348" y="312" class="axis" text-anchor="middle">F</text>
+<text x="435" y="96" font-size="15" font-weight="bold">Study Two · Accuracy</text>
+<line x1="435" y1="292.0" x2="745" y2="292.0" stroke="#dbe3ea"/>
+<text x="426" y="296.0" text-anchor="end" class="axis">0</text>
+<line x1="435" y1="247.0" x2="745" y2="247.0" stroke="#dbe3ea"/>
+<text x="426" y="251.0" text-anchor="end" class="axis">25</text>
+<line x1="435" y1="202.0" x2="745" y2="202.0" stroke="#dbe3ea"/>
+<text x="426" y="206.0" text-anchor="end" class="axis">50</text>
+<line x1="435" y1="157.0" x2="745" y2="157.0" stroke="#dbe3ea"/>
+<text x="426" y="161.0" text-anchor="end" class="axis">75</text>
+<line x1="435" y1="112.0" x2="745" y2="112.0" stroke="#dbe3ea"/>
+<text x="426" y="116.0" text-anchor="end" class="axis">100</text>
+<rect x="445" y="171.59866220735785" width="36" height="120.40133779264215" fill="#a5acb5"/>
+<text x="463" y="166.59866220735785" class="axis" text-anchor="middle">66.9</text>
+<text x="463" y="312" class="axis" text-anchor="middle">A</text>
+<rect x="496" y="112.30100334448161" width="36" height="179.69899665551839" fill="#64748b"/>
+<path d="M508 112.0h12 M514 112.0V112.6020066889632 M508 112.6020066889632h12" stroke="#152b38" stroke-width="1.4"/>
+<text x="514" y="121" class="axis" text-anchor="middle">99.8</text>
+<text x="514" y="312" class="axis" text-anchor="middle">B</text>
+<rect x="547" y="112.0" width="36" height="180.0" fill="#779ac3"/>
+<text x="565" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="565" y="312" class="axis" text-anchor="middle">C</text>
+<rect x="598" y="112.0" width="36" height="180.0" fill="#497db4"/>
+<text x="616" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="616" y="312" class="axis" text-anchor="middle">D</text>
+<rect x="649" y="112.0" width="36" height="180.0" fill="#28a3a2"/>
+<text x="667" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="667" y="312" class="axis" text-anchor="middle">E</text>
+<rect x="700" y="112.0" width="36" height="180.0" fill="#126c56"/>
+<text x="718" y="121" class="axis" text-anchor="middle">100.0</text>
+<text x="718" y="312" class="axis" text-anchor="middle">F</text>
+<text x="805" y="96" font-size="15" font-weight="bold">Study Three · Accuracy</text>
+<line x1="805" y1="292.0" x2="1115" y2="292.0" stroke="#dbe3ea"/>
+<text x="796" y="296.0" text-anchor="end" class="axis">0</text>
+<line x1="805" y1="247.0" x2="1115" y2="247.0" stroke="#dbe3ea"/>
+<text x="796" y="251.0" text-anchor="end" class="axis">25</text>
+<line x1="805" y1="202.0" x2="1115" y2="202.0" stroke="#dbe3ea"/>
+<text x="796" y="206.0" text-anchor="end" class="axis">50</text>
+<line x1="805" y1="157.0" x2="1115" y2="157.0" stroke="#dbe3ea"/>
+<text x="796" y="161.0" text-anchor="end" class="axis">75</text>
+<line x1="805" y1="112.0" x2="1115" y2="112.0" stroke="#dbe3ea"/>
+<text x="796" y="116.0" text-anchor="end" class="axis">100</text>
+<rect x="815" y="201.126213592233" width="36" height="90.87378640776699" fill="#a5acb5"/>
+<text x="833" y="196.126213592233" class="axis" text-anchor="middle">50.5</text>
+<text x="833" y="312" class="axis" text-anchor="middle">A</text>
+<rect x="866" y="114.33009708737862" width="36" height="177.66990291262138" fill="#64748b"/>
+<text x="884" y="121" class="axis" text-anchor="middle">98.7</text>
+<text x="884" y="312" class="axis" text-anchor="middle">B</text>
+<rect x="917" y="113.16504854368932" width="36" height="178.83495145631068" fill="#779ac3"/>
+<text x="935" y="121" class="axis" text-anchor="middle">99.4</text>
+<text x="935" y="312" class="axis" text-anchor="middle">C</text>
+<rect x="968" y="112.97087378640776" width="36" height="179.02912621359224" fill="#497db4"/>
+<path d="M980 112.63455324124877h12 M986 112.63455324124877V113.30719433156676 M980 113.30719433156676h12" stroke="#152b38" stroke-width="1.4"/>
+<text x="986" y="121" class="axis" text-anchor="middle">99.5</text>
+<text x="986" y="312" class="axis" text-anchor="middle">D</text>
+<rect x="1019" y="113.16504854368932" width="36" height="178.83495145631068" fill="#28a3a2"/>
+<text x="1037" y="121" class="axis" text-anchor="middle">99.4</text>
+<text x="1037" y="312" class="axis" text-anchor="middle">E</text>
+<rect x="1070" y="112.38834951456309" width="36" height="179.6116504854369" fill="#126c56"/>
+<path d="M1082 112.05202896940409h12 M1088 112.05202896940409V112.72467005972211 M1082 112.72467005972211h12" stroke="#152b38" stroke-width="1.4"/>
+<text x="1088" y="121" class="axis" text-anchor="middle">99.8</text>
+<text x="1088" y="312" class="axis" text-anchor="middle">F</text>
+<text x="65" y="366" font-size="15" font-weight="bold">Study One · Recall</text>
+<line x1="65" y1="562.0" x2="375" y2="562.0" stroke="#dbe3ea"/>
+<text x="56" y="566.0" text-anchor="end" class="axis">0</text>
+<line x1="65" y1="517.0" x2="375" y2="517.0" stroke="#dbe3ea"/>
+<text x="56" y="521.0" text-anchor="end" class="axis">25</text>
+<line x1="65" y1="472.0" x2="375" y2="472.0" stroke="#dbe3ea"/>
+<text x="56" y="476.0" text-anchor="end" class="axis">50</text>
+<line x1="65" y1="427.0" x2="375" y2="427.0" stroke="#dbe3ea"/>
+<text x="56" y="431.0" text-anchor="end" class="axis">75</text>
+<line x1="65" y1="382.0" x2="375" y2="382.0" stroke="#dbe3ea"/>
+<text x="56" y="386.0" text-anchor="end" class="axis">100</text>
+<rect x="75" y="562.0" width="36" height="0.8" fill="#a5acb5"/>
+<text x="93" y="557.0" class="axis" text-anchor="middle">0.0</text>
+<text x="93" y="582" class="axis" text-anchor="middle">A</text>
+<rect x="126" y="382.0" width="36" height="180.0" fill="#64748b"/>
+<text x="144" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="144" y="582" class="axis" text-anchor="middle">B</text>
+<rect x="177" y="382.0" width="36" height="180.0" fill="#779ac3"/>
+<text x="195" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="195" y="582" class="axis" text-anchor="middle">C</text>
+<rect x="228" y="382.0" width="36" height="180.0" fill="#497db4"/>
+<text x="246" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="246" y="582" class="axis" text-anchor="middle">D</text>
+<rect x="279" y="382.0" width="36" height="180.0" fill="#28a3a2"/>
+<text x="297" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="297" y="582" class="axis" text-anchor="middle">E</text>
+<rect x="330" y="382.0" width="36" height="180.0" fill="#126c56"/>
+<text x="348" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="348" y="582" class="axis" text-anchor="middle">F</text>
+<text x="435" y="366" font-size="15" font-weight="bold">Study Two · Recall</text>
+<line x1="435" y1="562.0" x2="745" y2="562.0" stroke="#dbe3ea"/>
+<text x="426" y="566.0" text-anchor="end" class="axis">0</text>
+<line x1="435" y1="517.0" x2="745" y2="517.0" stroke="#dbe3ea"/>
+<text x="426" y="521.0" text-anchor="end" class="axis">25</text>
+<line x1="435" y1="472.0" x2="745" y2="472.0" stroke="#dbe3ea"/>
+<text x="426" y="476.0" text-anchor="end" class="axis">50</text>
+<line x1="435" y1="427.0" x2="745" y2="427.0" stroke="#dbe3ea"/>
+<text x="426" y="431.0" text-anchor="end" class="axis">75</text>
+<line x1="435" y1="382.0" x2="745" y2="382.0" stroke="#dbe3ea"/>
+<text x="426" y="386.0" text-anchor="end" class="axis">100</text>
+<rect x="445" y="562.0" width="36" height="0.8" fill="#a5acb5"/>
+<text x="463" y="557.0" class="axis" text-anchor="middle">0.0</text>
+<text x="463" y="582" class="axis" text-anchor="middle">A</text>
+<rect x="496" y="382.9090909090909" width="36" height="179.0909090909091" fill="#64748b"/>
+<path d="M508 382.0h12 M514 382.0V383.8181818181818 M508 383.8181818181818h12" stroke="#152b38" stroke-width="1.4"/>
+<text x="514" y="391" class="axis" text-anchor="middle">99.5</text>
+<text x="514" y="582" class="axis" text-anchor="middle">B</text>
+<rect x="547" y="382.0" width="36" height="180.0" fill="#779ac3"/>
+<text x="565" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="565" y="582" class="axis" text-anchor="middle">C</text>
+<rect x="598" y="382.0" width="36" height="180.0" fill="#497db4"/>
+<text x="616" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="616" y="582" class="axis" text-anchor="middle">D</text>
+<rect x="649" y="382.0" width="36" height="180.0" fill="#28a3a2"/>
+<text x="667" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="667" y="582" class="axis" text-anchor="middle">E</text>
+<rect x="700" y="382.0" width="36" height="180.0" fill="#126c56"/>
+<text x="718" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="718" y="582" class="axis" text-anchor="middle">F</text>
+<text x="805" y="366" font-size="15" font-weight="bold">Study Three · Recall</text>
+<line x1="805" y1="562.0" x2="1115" y2="562.0" stroke="#dbe3ea"/>
+<text x="796" y="566.0" text-anchor="end" class="axis">0</text>
+<line x1="805" y1="517.0" x2="1115" y2="517.0" stroke="#dbe3ea"/>
+<text x="796" y="521.0" text-anchor="end" class="axis">25</text>
+<line x1="805" y1="472.0" x2="1115" y2="472.0" stroke="#dbe3ea"/>
+<text x="796" y="476.0" text-anchor="end" class="axis">50</text>
+<line x1="805" y1="427.0" x2="1115" y2="427.0" stroke="#dbe3ea"/>
+<text x="796" y="431.0" text-anchor="end" class="axis">75</text>
+<line x1="805" y1="382.0" x2="1115" y2="382.0" stroke="#dbe3ea"/>
+<text x="796" y="386.0" text-anchor="end" class="axis">100</text>
+<rect x="815" y="562.0" width="36" height="0.8" fill="#a5acb5"/>
+<text x="833" y="557.0" class="axis" text-anchor="middle">0.0</text>
+<text x="833" y="582" class="axis" text-anchor="middle">A</text>
+<rect x="866" y="385.1372549019608" width="36" height="176.86274509803923" fill="#64748b"/>
+<path d="M878 384.4580192911494h12 M884 384.4580192911494V385.81649051277213 M878 385.81649051277213h12" stroke="#152b38" stroke-width="1.4"/>
+<text x="884" y="391" class="axis" text-anchor="middle">98.3</text>
+<text x="884" y="582" class="axis" text-anchor="middle">B</text>
+<rect x="917" y="383.17647058823525" width="36" height="178.82352941176472" fill="#779ac3"/>
+<text x="935" y="391" class="axis" text-anchor="middle">99.3</text>
+<text x="935" y="582" class="axis" text-anchor="middle">C</text>
+<rect x="968" y="383.17647058823525" width="36" height="178.82352941176472" fill="#497db4"/>
+<path d="M980 382.0h12 M986 382.0V384.3529411764706 M980 384.3529411764706h12" stroke="#152b38" stroke-width="1.4"/>
+<text x="986" y="391" class="axis" text-anchor="middle">99.3</text>
+<text x="986" y="582" class="axis" text-anchor="middle">D</text>
+<rect x="1019" y="383.17647058823525" width="36" height="178.82352941176472" fill="#28a3a2"/>
+<text x="1037" y="391" class="axis" text-anchor="middle">99.3</text>
+<text x="1037" y="582" class="axis" text-anchor="middle">E</text>
+<rect x="1070" y="382.0" width="36" height="180.0" fill="#126c56"/>
+<text x="1088" y="391" class="axis" text-anchor="middle">100.0</text>
+<text x="1088" y="582" class="axis" text-anchor="middle">F</text>
+<rect x="32" y="650" width="14" height="14" fill="#a5acb5"/>
+<text x="52" y="662" class="axis">A · Original</text>
+<rect x="218" y="650" width="14" height="14" fill="#64748b"/>
+<text x="238" y="662" class="axis">B · Corrected</text>
+<rect x="404" y="650" width="14" height="14" fill="#779ac3"/>
+<text x="424" y="662" class="axis">C · Deep GAP</text>
+<rect x="590" y="650" width="14" height="14" fill="#497db4"/>
+<text x="610" y="662" class="axis">D · Multi GAP</text>
+<rect x="776" y="650" width="14" height="14" fill="#28a3a2"/>
+<text x="796" y="662" class="axis">E · Fixed dual</text>
+<rect x="962" y="650" width="14" height="14" fill="#126c56"/>
+<text x="982" y="662" class="axis">F · Adaptive dual</text>
+</svg>

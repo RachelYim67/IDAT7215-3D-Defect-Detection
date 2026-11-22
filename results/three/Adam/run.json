@@ -1,0 +1,22 @@
+{
+  "study": "three",
+  "optimizer": "Adam",
+  "learning_rate": 0.0010000000474974513,
+  "epochs": 30,
+  "batch_size": 30,
+  "seed": 42,
+  "class_order": [
+    "defected",
+    "no_defected"
+  ],
+  "initial_weights_sha256": "9ce25037dca2bb9fb2facfde05d31cb6ef8a720d96b0b5069793fefc9f0f8460",
+  "cache_prediction_max_abs_error": 0.0,
+  "validation": {
+    "n": 159,
+    "correct": 156
+  },
+  "test": {
+    "n": 309,
+    "correct": 300
+  }
+}
