@@ -1,6 +1,6 @@
 # IDAT7215 3D 打印件缺陷检测迁移学习与模型创新
 
-本项目对应 Topic 4: Python-Based Transfer Learning for 3D Printed Object Defect Detection。基于 Ahsan 等人 2024 年发表于 *Expert Systems with Applications* 的工作，我们复现了 EfficientNetV2M 与 InceptionResNetV2，进一步发现 EfficientNetV2M 的输入尺度问题，并提出面向打印缺陷的自适应多尺度融合模型 **MSAF-EfficientNetV2M**。
+本项目对应 Topic 4: Python-Based Transfer Learning for 3D Printed Object Defect Detection。基于 Ahsan 等人 2024 年发表于 *Expert Systems with Applications* 的工作，复现了 EfficientNetV2M，进一步发现 EfficientNetV2M 的输入尺度问题，并提出面向打印缺陷的自适应多尺度融合模型 **MSAF-EfficientNetV2M**。
 
 项目的主要贡献是模型结构创新，不把纠正输入缩放或普通数据增强带来的提升计入架构创新。**所有结果均来自实际运行和逐图预测**，论文原文数字只放在参考列。提交包包含模型代码、逐图预测、训练日志、分类头权重、消融实验及报告图；原始图片及较大的 ImageNet 权重由准备脚本获取，避免 GitHub 大文件限制。
 
